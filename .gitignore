@@ -34,3 +34,5 @@ yarn-error.log*
 
 # TypeScript output (if you are compiling TypeScript files to JS in a separate directory)
 build/
+
+*.swp
